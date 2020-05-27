@@ -1,4 +1,4 @@
-package com.cy.vlc_android
+package com.cy.android.vlc
 
 import org.junit.Test
 
