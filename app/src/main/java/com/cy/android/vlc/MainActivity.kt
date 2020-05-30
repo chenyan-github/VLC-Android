@@ -12,7 +12,7 @@ import java.io.IOException
 class MainActivity : AppCompatActivity() {
 
 //    private val VIDEO_URL = "rtsp://192.168.56.1/camera"
-    private val VIDEO_URL = "rtsp://10.154.139.119/output.264"
+    private val VIDEO_URL = "rtsp://10.154.139.119:8554/output.264"
 //    private val VIDEO_URL = "rtsp://admin:zxxd1001@192.168.1.63:554/Streaming/Channels/101"
     private val USE_TEXTURE_VIEW = false
     private val ENABLE_SUBTITLES = true
